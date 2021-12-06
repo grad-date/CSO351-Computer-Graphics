@@ -1,5 +1,5 @@
 # CSO351-Computer-Graphics
-### Lab Assignments
+### Lab Assignments:
 Click [here](https://drive.google.com/file/d/142To9xgPXPAzIquogN7d55u9kwpXS9tj/view?usp=sharing) to get list of all the lab assignments.
 
 |   |   |   |
@@ -13,3 +13,7 @@ Click [here](https://drive.google.com/file/d/142To9xgPXPAzIquogN7d55u9kwpXS9tj/v
 | Lab 7 | [Code](Lab_7/) | [Docs](https://drive.google.com/drive/folders/1Fu1NpfxCnPUESgCXyhARYKYyLBgN7EXN?usp=sharing) |
 | Lab 9 | [Code](Lab_9/) | [Docs](https://drive.google.com/drive/folders/1G-LUzaZhQe6t4-MvGhBAtADwPumgNV1L?usp=sharing) |
 | Lab 10 | [Code](Lab_10/) | [Docs](https://drive.google.com/drive/folders/1G7vbTfc3PaFDtZlUsJ511ordT6ucmkbM?usp=sharing) |
+
+### To Run Files:
+- For C  : ``` gcc <filename>.c -lglut -lGL -lGLEW -lGLU ``` <br>
+- For C++: ``` g++ <filename>.cpp -lglut -lGL -lGLEW -lGLU ``` 
