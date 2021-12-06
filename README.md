@@ -3,7 +3,7 @@
 Click [here](https://drive.google.com/file/d/142To9xgPXPAzIquogN7d55u9kwpXS9tj/view?usp=sharing) to get list of all the lab assignments.
 
 |   |   |   |
-| :---: | --- | :---: | :---: |
+| :---: | :---: | :---: |
 | Lab 1 | [Code](Lab_1/) | [Docs](https://drive.google.com/drive/folders/1GHI89EffaNJQClgxU-9n-Ho1eCeD2v4V?usp=sharing) |
 | Lab 2 | [Code](Lab_2/) | [Docs](https://drive.google.com/drive/folders/1SPDnv5OjKkhEmdFy2SCGZMFNxUr3XCJj?usp=sharing) |
 | Lab 3 | [Code](Lab_3/) | [Docs](https://drive.google.com/drive/folders/166qIjMcemFeEYrooLMNlnXqKrlMAtesL?usp=sharing) |
